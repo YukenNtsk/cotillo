@@ -62,6 +62,15 @@ let preguntas = [
             "Coges el teléfono": 2,
         }
     },
+    {
+        id: 8,
+        pregunta: "Miras a los mensajes Whatsapp/Instagram",
+        respuestas: {
+            "Menos que cada 8 horas": 0,
+            "Entre cada 2 y 8 horas": 1,
+            "Más que cada 2 horas": 2,
+        }
+    },
 ]
 
 var numero = 1
