@@ -1,6 +1,6 @@
 let puntos = sessionStorage.getItem("puntos");
 
-let porciento = Math.round((puntos/15)*100)
+let porciento = Math.round((puntos/17)*100)
 
 console.log(porciento)
 
