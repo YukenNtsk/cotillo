@@ -23,7 +23,7 @@ window.onload = () => {
             No eres un cotillo, pero te gusta conocer un poco a los demás.
         `
     } else if (50 <= porciento && porciento < 75) {
-        document.querySelector("#circle").style.stroke = "#99aa00"
+        document.querySelector("#circle").style.stroke = "#ffaa00"
         document.querySelector("div#text").innerHTML = `
             Eres un cotillo! Te gusta mucho hablar con personas\n
             y trabar amistad.
