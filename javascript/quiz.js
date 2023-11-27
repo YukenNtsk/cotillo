@@ -49,7 +49,7 @@ let preguntas = [
         pregunta: "Alguien deja su teléfono desbloqueado",
         respuestas: {
             "Abres una aplicación y lees los mensajes recientes": 2,
-            "Apaga el teléfono": 0,
+            "Apagas el teléfono": 0,
             "Miras a las aplicaciónes pero no hace nada": 1,
         }
     },
@@ -64,7 +64,7 @@ let preguntas = [
     },
     {
         id: 8,
-        pregunta: "Miras a los mensajes Whatsapp/Instagram",
+        pregunta: "Miras a los mensajes Whatsapp/Instagram...",
         respuestas: {
             "Menos que cada 8 horas": 0,
             "Entre cada 2 y 8 horas": 1,
