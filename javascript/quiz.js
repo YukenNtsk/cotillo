@@ -1,7 +1,7 @@
 let preguntas = [
     {
         id: 1,
-        pregunta: "En el autobus, una pareja a tu lado empeza conversar",
+        pregunta: "En el autobus, una pareja a tu lado empeza charlar",
         respuestas: {
             "Intentas no escucharles": 0,
             "No dices nada pero escuchas a la conversación": 1,
