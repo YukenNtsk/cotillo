@@ -4,7 +4,7 @@ let preguntas = [
         pregunta: "En el autobus, una pareja a tu lado empeza conversar",
         respuestas: {
             "Intentas no escucharles": 0,
-            "No dices nada pero escucha a la conversación": 1,
+            "No dices nada pero escuchas a la conversación": 1,
             "Empiezas hablar con ellos": 2,
         }
     },
@@ -13,7 +13,7 @@ let preguntas = [
         pregunta: "Tu amigo/a te cuenta un secreto muy divertido/interesante",
         respuestas: {
             "Lo dices a un amigo en quién confías": 1,
-            "Le compartes a todo el mundo, pero no dices de quien es": 2,
+            "Le compartes a todo el mundo, pero no dices de quién es": 2,
             "No le compartes a nadie": 0,
         }
     },
@@ -41,7 +41,7 @@ let preguntas = [
         respuestas: {
             "Le dices hola, pero las conversacion se termina ahí": 1,
             "No dices nada si el vecino no te reconoce": 0,
-            "Le dices hola y le compartes un rumor que circula en el barrio": 2,
+            "Le dices hola y cotilleas con él o le compartes un rumor que circula en el barrio": 2,
         }
     },
     {
@@ -66,9 +66,9 @@ let preguntas = [
         id: 8,
         pregunta: "Miras a los mensajes Whatsapp/Instagram...",
         respuestas: {
-            "Menos que cada 8 horas": 0,
+            "Menos de cada 8 horas": 0,
             "Entre cada 2 y 8 horas": 1,
-            "Más que cada 2 horas": 2,
+            "Más de cada 2 horas": 2,
         }
     },
 ]
