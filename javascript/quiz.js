@@ -31,7 +31,7 @@ let preguntas = [
     },
     {
         id: 4,
-        pregunta: "Tu amigo/a esta escribiendo un mensaje en su telefono y parece muy divertido",
+        pregunta: "Tu amigo/a está escribiendo un mensaje en su telefono y parece muy divertido",
         respuestas: {
             "No haces nada, no te importa": 0,
             "Lees los mensajes sobre su hombro": 2,
@@ -43,7 +43,7 @@ let preguntas = [
         id: 5,
         pregunta: "Encontras un vecino en tu edificio o al lado de tu casa",
         respuestas: {
-            "Le dices hola, pero las conversacion se termina ahí": 1,
+            "Le dices hola, pero la conversacion se termina ahí": 1,
             "No dices nada si el vecino no te reconoce": 0,
             "Le dices hola y cotilleas con él o le compartes un rumor que circula en el barrio": 2,
         },
