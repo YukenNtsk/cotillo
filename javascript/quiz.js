@@ -14,8 +14,8 @@ let preguntas = [
         pregunta: "Tu amigo/a te cuenta un secreto muy divertido/interesante",
         respuestas: {
             "Lo dices a un/a amigo/a en quién confías": 1,
-            "Le compartes a todo el mundo, pero no dices de quién es": 2,
-            "No le compartes a nadie": 0,
+            "Lo compartes a todo el mundo, pero no dices de quién es": 2,
+            "No lo compartes a nadie": 0,
         },
         img: "https://thumbs.dreamstime.com/b/little-secrets-picture-girl-telling-secret-to-her-brother-over-white-background-36911367.jpg"
     },
