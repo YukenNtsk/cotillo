@@ -3,9 +3,9 @@ let preguntas = [
         id: 1,
         pregunta: "En el autobus, una pareja a tu lado empeza charlar",
         respuestas: {
-            "Intentas no escucharles": 0,
-            "No dices nada pero escuchas a la conversación": 1,
-            "Empiezas hablar con ellos": 2,
+            "Intentas no escucharles o la conversación no te cabe en la cabeza": 0,
+            "No dices ni pipa pero escuchas a la conversación": 1,
+            "Empiezas cotillear con ellos": 2,
         },
         img: "https://t4.ftcdn.net/jpg/02/69/47/51/360_F_269475198_k41qahrZ1j4RK1sarncMiFHpcmE2qllQ.jpg"
     },
@@ -13,7 +13,7 @@ let preguntas = [
         id: 2,
         pregunta: "Tu amigo/a te cuenta un secreto muy divertido/interesante",
         respuestas: {
-            "Lo dices a un amigo en quién confías": 1,
+            "Lo dices a un/a amigo/a en quién confías": 1,
             "Le compartes a todo el mundo, pero no dices de quién es": 2,
             "No le compartes a nadie": 0,
         },
@@ -33,9 +33,9 @@ let preguntas = [
         id: 4,
         pregunta: "Tu amigo/a esta escribiendo un mensaje en su telefono y parece muy divertido",
         respuestas: {
-            "No haces nada": 0,
+            "No haces nada, no te importa": 0,
             "Lees los mensajes sobre su hombro": 2,
-            "Preguntas con quién está hablando": 1,
+            "Le preguntas con quién está hablando": 1,
         },
         img: "https://images.pexels.com/photos/6140981/pexels-photo-6140981.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     },
