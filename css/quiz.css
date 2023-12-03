@@ -67,3 +67,11 @@ body {
 .button:hover{
     background-color: rgb(13, 100, 182);
 }
+
+img {
+    display: block;
+    margin: auto;
+    width: 102%;
+    height: 300px;
+    object-fit: cover;
+}
